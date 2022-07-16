@@ -13,7 +13,7 @@ import yfinance as yf
 from datetime import datetime
 
 #Add a title to the dashboard
-st.title('Lit Finance Dashboard')
+st.title('Stock Market Dashboard')
 #add tickers
 tickers = ('NFLX','NVDA','AMZN','TSLA','AAPL','BTC-USD')
 #add dropdown menu
